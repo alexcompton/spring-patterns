@@ -1,0 +1,17 @@
+https://app.pluralsight.com/player?course=spring-data-jpa-getting-started&author=dan-bunker&name=spring-data-jpa-getting-started-m1-intro&clip=7&mode=live
+
+https://www.pluralsight.com/courses/spring-data-rest-getting-started
+
+https://www.pluralsight.com/courses/spring-data-jpa-getting-started
+
+https://www.pluralsight.com/courses/build-web-app-spring-mvc-hibernate-bootstrap-rest-service
+
+https://www.pluralsight.com/courses/spring-jpa-hibernate
+
+https://www.pluralsight.com/courses/springmvc-intro
+
+https://app.pluralsight.com/library/courses/java-persistence-api-21/table-of-contents
+
+https://app.pluralsight.com/library/courses/building-applications-spring-jdbc/table-of-contents
+
+ 
